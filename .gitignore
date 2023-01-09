@@ -1,6 +1,9 @@
 # Folders
 NeuralNetworks/models/
 
+# MS Office
+*.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

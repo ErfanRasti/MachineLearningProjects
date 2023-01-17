@@ -1,6 +1,7 @@
 # Folders
 NeuralNetworks/models/
 reports
+NaturalLanguageProcessing/test_trainer/
 
 # MS Office
 *.docx
